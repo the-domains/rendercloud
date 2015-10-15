@@ -1,10 +1,10 @@
 analytics: {}
 color:
   brandColors: []
-  brandStrength: 0.625122
-  lightness: 0.748684
+  brandStrength: 0.318412
+  lightness: 0.429054
   rhythmicContrast: 0.359857
-  saturation: 0.932368
+  saturation: 0
 cta: {}
 layout_spectrum: 1
 name: RenderCloud
