@@ -3,10 +3,17 @@
     <channel>
         <title><![CDATA[RenderCloud]]></title>
         <description><![CDATA[RenderCloud]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/rendercloud/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 15 Oct 2015 15:40:53 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 15 Oct 2015 15:41:08 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/rendercloud/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Ivan Schuler´s BlackMoon Modified Triump...]]></title>
+            <description><![CDATA[<article><h1>Ivan Schuler´s BlackMoon Modified Triump...</h1><p>Ivan Schuler´s BlackMoon Modified Triumph cafe racer Design/Render by OneArtistStudio https://www.behance.net/gallery/23022627/Modified-Triumph-Cafe-Racer-BlackMoon</p><img src="http://40.media.tumblr.com/a381ab6dabbb2c7ecd9eb7f5f5de8e8f/tumblr_ninazaQSmN1r0xt1go1_500.jpg"></article>]]></description>
+            <link>http://my-rendercloud.tumblr.com/post/108935886342/ivan-schuler-s-blackmoon-modified-triumph-cafe</link>
+            <guid isPermaLink="false">828fe14e-83d6-4a60-80d5-090f1ca2dbb6</guid>
+            <pubDate>Thu, 15 Oct 2015 15:40:31 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Design/Render by OneArtistStudio]]></title>
             <description><![CDATA[<article><h1>Design/Render by OneArtistStudio</h1><img src="http://40.media.tumblr.com/tumblr_ltsacjNXi91r0xt1go1_500.jpg"></article>]]></description>
