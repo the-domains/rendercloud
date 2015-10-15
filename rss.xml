@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[RenderCloud]]></title>
+        <description><![CDATA[RenderCloud]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 15 Oct 2015 15:40:53 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Design/Render by OneArtistStudio]]></title>
+            <description><![CDATA[<article><h1>Design/Render by OneArtistStudio</h1><img src="http://40.media.tumblr.com/tumblr_ltsacjNXi91r0xt1go1_500.jpg"></article>]]></description>
+            <link>http://my-rendercloud.tumblr.com/post/12035162660/designrender-by-oneartiststudio</link>
+            <guid isPermaLink="false">761bce5b-b568-4447-b937-7c30f101a032</guid>
+            <pubDate>Thu, 15 Oct 2015 15:40:31 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
