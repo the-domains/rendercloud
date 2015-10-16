@@ -1,12 +1,39 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title><![CDATA[RenderCloud]]></title>
         <description><![CDATA[RenderCloud]]></description>
         <link>https://thegrid.ai/rendercloud/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 15 Oct 2015 15:42:06 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 16 Oct 2015 02:28:24 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/rendercloud/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Design/Render by OneArtistStudio]]></title>
+            <description><![CDATA[<article><h1>Design/Render by OneArtistStudio</h1><img src="http://40.media.tumblr.com/tumblr_lsbc0bkGl81r0xt1go1_500.jpg"></article>]]></description>
+            <link>https://thegrid.ai/rendercloud/4f188897-f74c-4686-9ef3-5392d9afd0f4/index.html</link>
+            <guid isPermaLink="false">4f188897-f74c-4686-9ef3-5392d9afd0f4</guid>
+            <pubDate>Fri, 16 Oct 2015 02:26:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The scary world of geometry. Design/Rend...]]></title>
+            <description><![CDATA[<article><h1>The scary world of geometry. Design/Rend...</h1><p>The scary world of geometry. Design/Render by OneArtistStudio</p><img src="http://41.media.tumblr.com/b76aef5173851cfac5bd87e132d5d2e7/tumblr_mi4tgcR3be1r0xt1go1_500.jpg"></article>]]></description>
+            <link>http://my-rendercloud.tumblr.com/post/42958816113/the-scary-world-of-geometry-designrender-by</link>
+            <guid isPermaLink="false">2caa0718-74e8-4a23-bea3-5be7f046c4cf</guid>
+            <pubDate>Thu, 15 Oct 2015 15:40:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Design/Render by OneArtistStudio]]></title>
+            <description><![CDATA[<article><h1>Design/Render by OneArtistStudio</h1><img src="http://40.media.tumblr.com/tumblr_lrt3iecpCf1r0xt1go1_1280.jpg"></article>]]></description>
+            <link>http://my-rendercloud.tumblr.com/post/10434730479/designrender-by-oneartiststudio</link>
+            <guid isPermaLink="false">1a5592bf-8fc0-4d2d-bae9-a90857727b38</guid>
+            <pubDate>Thu, 15 Oct 2015 15:40:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[&ldquo;BLUM&rdquo; The lamp that wants t...]]></title>
+            <description><![CDATA[<article><h1>&ldquo;BLUM&rdquo; The lamp that wants t...</h1><p>ldquo;BLUM&rdquo; The lamp that wants to be a flower Design/Render by OneArtistStudio</p><img src="http://41.media.tumblr.com/tumblr_m5d9p4bOqY1r0xt1go1_500.jpg"></article>]]></description>
+            <link>http://my-rendercloud.tumblr.com/post/24765084314/blum-the-lamp-that-wants-to-be-a-flower</link>
+            <guid isPermaLink="false">5da4252a-1305-4e06-95e5-a892aeb7cb7f</guid>
+            <pubDate>Thu, 15 Oct 2015 15:40:32 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Conceptart for the world of &ldquo;Wakos...]]></title>
             <description><![CDATA[<article><h1>Conceptart for the world of &ldquo;Wakos...</h1><p>Conceptart for the world of &ldquo;Wakos by 4D2 Studio&rdquo; Inspired by the &ldquo; Wakos by 4D2 Studio&rdquo;, ceramic art toys inspired in ancient Peruvian culture.More info on: https://www.facebook.com/4d2StudioWakos</p><img src="http://40.media.tumblr.com/ea279b6c235595ae81540e217fb20b92/tumblr_mj5ak09pLU1r0xt1go1_500.jpg"></article>]]></description>
@@ -47,33 +74,6 @@
             <description><![CDATA[<article><h1>Teaching my students the basic of form,...</h1><p>Teaching my students the basic of form, light and materials.</p><img src="http://40.media.tumblr.com/db1229c81cb62c277414eafb9403114d/tumblr_mvtu5gd5MC1r0xt1go1_500.jpg"></article>]]></description>
             <link>http://my-rendercloud.tumblr.com/post/66164723682/teaching-my-students-the-basic-of-form-light-and</link>
             <guid isPermaLink="false">61720848-d265-4271-ad24-471a50b01388</guid>
-            <pubDate>Thu, 15 Oct 2015 15:40:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[OAS 201506-02Simple Geometry and Materia...]]></title>
-            <description><![CDATA[<article><h1>OAS 201506-02Simple Geometry and Materia...</h1><p>OAS 201506-02Simple Geometry and Material TestsRender by OneArtistStudio</p><img src="http://40.media.tumblr.com/0817b4f69b0e71a5fb0e75ecd148c4a1/tumblr_npx1n4hrkq1uv7wwio1_500.jpg"></article>]]></description>
-            <link>http://my-geometrycloud.tumblr.com/post/121477392164/oas-201506-02-simple-geometry-and-material-tests</link>
-            <guid isPermaLink="false">3c881dd6-5fd6-4b96-b5df-2f6cdecdf0fb</guid>
-            <pubDate>Thu, 15 Oct 2015 15:40:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <link>https://thegrid.ai/rendercloud/7833fe1b-d1ed-4eaa-8d89-50c2a8f57dbb/index.html</link>
-            <guid isPermaLink="false">7833fe1b-d1ed-4eaa-8d89-50c2a8f57dbb</guid>
-            <pubDate>Thu, 15 Oct 2015 15:40:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Design/Render by OneArtistStudio]]></title>
-            <description><![CDATA[<article><h1>Design/Render by OneArtistStudio</h1><img src="http://40.media.tumblr.com/tumblr_lsbc0bkGl81r0xt1go1_500.jpg"></article>]]></description>
-            <link>http://my-rendercloud.tumblr.com/post/10831881732/designrender-by-oneartiststudio</link>
-            <guid isPermaLink="false">4f188897-f74c-4686-9ef3-5392d9afd0f4</guid>
-            <pubDate>Thu, 15 Oct 2015 15:40:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[OAS 201505-01 Simple Geometry and Materi...]]></title>
-            <description><![CDATA[<article><h1>OAS 201505-01 Simple Geometry and Materi...</h1><p>OAS 201505-01 Simple Geometry and Material TestsRender by OneArtistStudio</p><img src="http://41.media.tumblr.com/c840e7bbd92621e1cee92202690039c5/tumblr_no2109R6h21uv7wwio1_500.jpg"></article>]]></description>
-            <link>http://my-geometrycloud.tumblr.com/post/118478605704/oas-201505-01-simple-geometry-and-material-tests</link>
-            <guid isPermaLink="false">0ce8e14b-be21-4006-aaf4-3eadd21b9144</guid>
             <pubDate>Thu, 15 Oct 2015 15:40:32 GMT</pubDate>
         </item>
     </channel>
