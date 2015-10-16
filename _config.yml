@@ -1,18 +1,4 @@
-name: RenderCloud
-favicon: null
-layout_spectrum: 0.25585
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+analytics: {}
 color:
   brandColors:
     - '#0a0702'
@@ -20,8 +6,12 @@ color:
     - '#5f5a3a'
     - '#f8a82b'
     - '#0c6a80'
-  brandStrength: 0.5
-  lightness: 0.125
+  brandStrength: 0
+  lightness: 0
+  rhythmicContrast: 0
   saturation: 0
-  rhythmicContrast: 0.75
+cta: {}
+layout_spectrum: 0.387668
+name: RenderCloud
+opengraph: {}
 purpose: []
