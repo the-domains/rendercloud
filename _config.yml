@@ -1,6 +1,6 @@
 name: RenderCloud
 favicon: null
-layout_spectrum: 1
+layout_spectrum: 0.25585
 cta:
   domain: null
   bucket: null
