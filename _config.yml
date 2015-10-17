@@ -1,12 +1,12 @@
 analytics: {}
 color:
   brandColors:
-    - '#0a0702'
-    - '#173034'
-    - '#5f5a3a'
-    - '#f8a82b'
-    - '#0c6a80'
-  brandStrength: 0
+    - '#C0C0B0'
+    - '#000000'
+    - '#6088A0'
+    - '#000000'
+    - '#A0C0D8'
+  brandStrength: 1
   lightness: 0
   rhythmicContrast: 0
   saturation: 0
@@ -15,3 +15,4 @@ layout_spectrum: 0.387668
 name: RenderCloud
 opengraph: {}
 purpose: []
+typography_spectrum: 0
