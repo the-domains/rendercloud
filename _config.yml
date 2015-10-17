@@ -6,13 +6,12 @@ color:
     - '#6088A0'
     - '#000000'
     - '#A0C0D8'
-  brandStrength: 1
+  brandStrength: 0.501689
   lightness: 0
   rhythmicContrast: 0
-  saturation: 0
+  saturation: 0.500844
 cta: {}
 layout_spectrum: 0.387668
 name: RenderCloud
 opengraph: {}
 purpose: []
-typography_spectrum: 0
