@@ -4,8 +4,15 @@
         <description><![CDATA[RenderCloud]]></description>
         <link>https://thegrid.ai/rendercloud/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 20 Oct 2015 05:43:31 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 20 Oct 2015 06:30:03 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/rendercloud/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Render by OneArtistStudio]]></title>
+            <description><![CDATA[<article><h1>Render by OneArtistStudio</h1><img src="http://41.media.tumblr.com/7084539c4e7fdb13aa6ae9ab7d35c791/tumblr_nhgzok3f2d1r0xt1go1_500.jpg"></article>]]></description>
+            <link>http://my-rendercloud.tumblr.com/post/106748669032/render-by-oneartiststudio</link>
+            <guid isPermaLink="false">5e343254-61cd-45fb-9324-9fa666720c6c</guid>
+            <pubDate>Tue, 20 Oct 2015 06:29:07 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Design/Render by OneArtistStudio]]></title>
             <description><![CDATA[<article><h1>Design/Render by OneArtistStudio</h1><img src="http://40.media.tumblr.com/tumblr_lsbc0bkGl81r0xt1go1_500.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://my-rendercloud.tumblr.com/post/56931590563/serie-bandera-per%C3%BA-grabados-hechos-en</link>
             <guid isPermaLink="false">980cf5c6-7b5c-463f-9ca9-b3c9f88e2c3c</guid>
             <pubDate>Tue, 20 Oct 2015 05:42:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Render by OneArtistStudio Client: ESTUDI...]]></title>
-            <description><![CDATA[<article><h1>Render by OneArtistStudio Client: ESTUDI...</h1><p>Render by OneArtistStudio Client: ESTUDIO JORDI PUIG</p><img src="http://41.media.tumblr.com/69d0454cf67164228c758e5075b651c5/tumblr_mhk9wlkzeK1r0xt1go1_500.jpg"></article>]]></description>
-            <link>http://my-rendercloud.tumblr.com/post/42046929070/render-by-oneartiststudio-client-estudio-jordi</link>
-            <guid isPermaLink="false">bf30eba5-41bd-4530-87b9-e2a24ade44aa</guid>
-            <pubDate>Thu, 15 Oct 2015 15:40:32 GMT</pubDate>
         </item>
     </channel>
 </rss>
