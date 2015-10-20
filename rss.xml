@@ -4,8 +4,15 @@
         <description><![CDATA[RenderCloud]]></description>
         <link>https://thegrid.ai/rendercloud/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 20 Oct 2015 06:30:03 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 20 Oct 2015 06:31:31 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/rendercloud/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[OAS 201506-02Simple Geometry and Materia...]]></title>
+            <description><![CDATA[<article><h1>OAS 201506-02Simple Geometry and Materia...</h1><p>OAS 201506-02Simple Geometry and Material TestsRender by OneArtistStudio</p><img src="http://40.media.tumblr.com/0817b4f69b0e71a5fb0e75ecd148c4a1/tumblr_npx1n4hrkq1uv7wwio1_500.jpg"></article>]]></description>
+            <link>http://my-geometrycloud.tumblr.com/post/121477392164/oas-201506-02-simple-geometry-and-material-tests</link>
+            <guid isPermaLink="false">3c881dd6-5fd6-4b96-b5df-2f6cdecdf0fb</guid>
+            <pubDate>Tue, 20 Oct 2015 06:30:14 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Render by OneArtistStudio]]></title>
             <description><![CDATA[<article><h1>Render by OneArtistStudio</h1><img src="http://41.media.tumblr.com/7084539c4e7fdb13aa6ae9ab7d35c791/tumblr_nhgzok3f2d1r0xt1go1_500.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://my-rendercloud.tumblr.com/post/44546596432/conceptart-for-the-world-of-wakos-by-4d2-studio</link>
             <guid isPermaLink="false">289968c3-d3fc-438d-a566-ecb1c28cf351</guid>
             <pubDate>Thu, 15 Oct 2015 15:40:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Serie bandera Perú, grabados hechos en c...]]></title>
-            <description><![CDATA[<article><h1>Serie bandera Perú, grabados hechos en c...</h1><p>Serie bandera Perú, grabados hechos en colaboración con 4D2 Studio. Dirección de arte y personajes de 4D2 Studio, 3D y Render, OneArtistStudiohttps://www.facebook.com/4d2StudioWakos</p><img src="http://41.media.tumblr.com/088306e63e904439a5ab8bdd590ab28e/tumblr_mqs3ssj3J11r0xt1go1_500.jpg"></article>]]></description>
-            <link>http://my-rendercloud.tumblr.com/post/56931590563/serie-bandera-per%C3%BA-grabados-hechos-en</link>
-            <guid isPermaLink="false">980cf5c6-7b5c-463f-9ca9-b3c9f88e2c3c</guid>
-            <pubDate>Tue, 20 Oct 2015 05:42:53 GMT</pubDate>
         </item>
     </channel>
 </rss>
