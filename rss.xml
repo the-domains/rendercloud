@@ -4,7 +4,7 @@
         <description><![CDATA[RenderCloud]]></description>
         <link>https://thegrid.ai/rendercloud/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 19 Oct 2015 03:42:34 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 20 Oct 2015 05:06:01 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/rendercloud/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Design/Render by OneArtistStudio]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/rendercloud/4f188897-f74c-4686-9ef3-5392d9afd0f4/index.html</link>
             <guid isPermaLink="false">4f188897-f74c-4686-9ef3-5392d9afd0f4</guid>
             <pubDate>Mon, 19 Oct 2015 02:29:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Teaching my students the basic of form,...]]></title>
+            <description><![CDATA[<article><h1>Teaching my students the basic of form,...</h1><p>Teaching my students the basic of form, light and materials.</p><img src="http://40.media.tumblr.com/db1229c81cb62c277414eafb9403114d/tumblr_mvtu5gd5MC1r0xt1go1_500.jpg"></article>]]></description>
+            <link>http://my-rendercloud.tumblr.com/post/66164723682/teaching-my-students-the-basic-of-form-light-and</link>
+            <guid isPermaLink="false">61720848-d265-4271-ad24-471a50b01388</guid>
+            <pubDate>Tue, 20 Oct 2015 05:04:38 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[OAS 201506-01Simple Geometry and Materia...]]></title>
@@ -68,13 +75,6 @@
             <link>http://my-rendercloud.tumblr.com/post/42046929070/render-by-oneartiststudio-client-estudio-jordi</link>
             <guid isPermaLink="false">bf30eba5-41bd-4530-87b9-e2a24ade44aa</guid>
             <pubDate>Thu, 15 Oct 2015 15:40:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Render by OneArtistStudio]]></title>
-            <description><![CDATA[<article><h1>Render by OneArtistStudio</h1><img src="http://41.media.tumblr.com/7084539c4e7fdb13aa6ae9ab7d35c791/tumblr_nhgzok3f2d1r0xt1go1_500.jpg"></article>]]></description>
-            <link>http://my-rendercloud.tumblr.com/post/106748669032/render-by-oneartiststudio</link>
-            <guid isPermaLink="false">5e343254-61cd-45fb-9324-9fa666720c6c</guid>
-            <pubDate>Mon, 19 Oct 2015 02:29:47 GMT</pubDate>
         </item>
     </channel>
 </rss>
