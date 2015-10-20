@@ -6,10 +6,10 @@ color:
     - '#6088A0'
     - '#000000'
     - '#A0C0D8'
-  brandStrength: 0
-  lightness: 0
-  rhythmicContrast: 0
-  saturation: 0.500844
+  brandStrength: 1
+  lightness: 0.493243
+  rhythmicContrast: 0.497466
+  saturation: 0.090371
 cta: {}
 layout_spectrum: 0.797297
 name: RenderCloud
