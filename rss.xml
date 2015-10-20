@@ -4,8 +4,15 @@
         <description><![CDATA[RenderCloud]]></description>
         <link>https://thegrid.ai/rendercloud/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 20 Oct 2015 06:33:04 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 20 Oct 2015 06:33:29 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/rendercloud/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Render by OneArtistStudio Client: ESTUDI...]]></title>
+            <description><![CDATA[<article><h1>Render by OneArtistStudio Client: ESTUDI...</h1><p>Render by OneArtistStudio Client: ESTUDIO JORDI PUIG</p><img src="http://41.media.tumblr.com/69d0454cf67164228c758e5075b651c5/tumblr_mhk9wlkzeK1r0xt1go1_500.jpg"></article>]]></description>
+            <link>http://my-rendercloud.tumblr.com/post/42046929070/render-by-oneartiststudio-client-estudio-jordi</link>
+            <guid isPermaLink="false">bf30eba5-41bd-4530-87b9-e2a24ade44aa</guid>
+            <pubDate>Tue, 20 Oct 2015 06:32:34 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[OAS 201505-01 Simple Geometry and Materi...]]></title>
             <description><![CDATA[<article><h1>OAS 201505-01 Simple Geometry and Materi...</h1><p>OAS 201505-01 Simple Geometry and Material TestsRender by OneArtistStudio</p><img src="http://41.media.tumblr.com/c840e7bbd92621e1cee92202690039c5/tumblr_no2109R6h21uv7wwio1_500.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/rendercloud/1a5592bf-8fc0-4d2d-bae9-a90857727b38/index.html</link>
             <guid isPermaLink="false">1a5592bf-8fc0-4d2d-bae9-a90857727b38</guid>
             <pubDate>Tue, 20 Oct 2015 05:38:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[&ldquo;BLUM&rdquo; The lamp that wants t...]]></title>
-            <description><![CDATA[<article><h1>&ldquo;BLUM&rdquo; The lamp that wants t...</h1><p>ldquo;BLUM&rdquo; The lamp that wants to be a flower Design/Render by OneArtistStudio</p><img src="http://41.media.tumblr.com/tumblr_m5d9p4bOqY1r0xt1go1_500.jpg"></article>]]></description>
-            <link>http://my-rendercloud.tumblr.com/post/24765084314/blum-the-lamp-that-wants-to-be-a-flower</link>
-            <guid isPermaLink="false">5da4252a-1305-4e06-95e5-a892aeb7cb7f</guid>
-            <pubDate>Thu, 15 Oct 2015 15:40:32 GMT</pubDate>
         </item>
     </channel>
 </rss>
